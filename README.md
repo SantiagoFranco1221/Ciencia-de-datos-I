@@ -1,7 +1,8 @@
 # Ciencia-de-datos-I
 Entrega y realización de actividades practicas 
-Análisis de Textos: El Cuervo y La Chica Más Hermosa
-Descripción
+
+## Análisis de Textos: El Cuervo y La Chica Más Hermosa
+## Descripción
 Este proyecto analiza dos textos literarios usando Python y spaCy: "El Cuervo" de Poe y "La Mujer Más Hermosa" de Bukowski. Incluye normalización, conteos, procesamiento NLP, nubes de palabras y extracción SVO.
 Hallazgos Principales
 
