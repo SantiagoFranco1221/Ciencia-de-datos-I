@@ -4,6 +4,9 @@ Este proyecto analiza dos textos literarios usando Python y spaCy: "El Cuervo" d
 Hallazgos Principales
 
 El Cuervo: Temas de melancolía, pérdida ("nunca más", "cuervo").
+
 La Chica: Temas de belleza, autodestrucción, relaciones ("cass", "bonita").
+
 Complejidad: Poema vs. narrativa prosaica.
+
 SVOs revelan introspección en Poe y dinámica interpersonal en Bukowski.
